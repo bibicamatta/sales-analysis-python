@@ -1,0 +1,13 @@
+data,produto,categoria,quantidade,preco_unitario,cidade
+2026-01-05,Notebook,Eletrônicos,2,3200,São Paulo
+2026-01-08,Mouse,Periféricos,7,120,Santo André
+2026-01-13,Teclado,Periféricos,5,180,São Bernardo do Campo
+2026-01-18,Monitor,Eletrônicos,3,950,São Paulo
+2026-02-03,Notebook,Eletrônicos,1,3200,Campinas
+2026-02-11,Mouse,Periféricos,9,120,Santo André
+2026-02-19,Headset,Periféricos,4,230,São Paulo
+2026-03-02,Monitor,Eletrônicos,6,950,São Paulo
+2026-03-09,Teclado,Periféricos,8,180,Campinas
+2026-03-22,Notebook,Eletrônicos,2,3200,São Paulo
+2026-04-01,Headset,Periféricos,10,230,Santo André
+2026-04-15,Monitor,Eletrônicos,4,950,Campinas
